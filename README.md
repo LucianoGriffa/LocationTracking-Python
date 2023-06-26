@@ -1,4 +1,4 @@
-# Tracking Location with IP or URL
+# Location Tracking with IP or URL
 
 This code serves to obtain geolocation information of a specific IP address or URL. By providing an IP address or URL as input, the code utilizes a geolocation API to retrieve data such as the country, region, city, postal code, and internet service provider associated with that address.
 
