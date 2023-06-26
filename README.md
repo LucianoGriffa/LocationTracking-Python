@@ -23,6 +23,16 @@ cd TrackingLocation-Python
 python tracking.py
 ```
 
+## Examples
+### With URL:
+
+![image](https://github.com/G3kSec/TrackingLocation-Python/assets/73656863/4eee2ad3-fdaf-42d5-807a-6c129ffb791b)
+
+### With IP:
+
+![image](https://github.com/G3kSec/TrackingLocation-Python/assets/73656863/a5de6030-56ae-4074-bafb-7f5ca52d436e)
+
+
 ```
 ██████╗ ██╗   ██╗     ██████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗
 ██╔══██╗╚██╗ ██╔╝    ██╔════╝ ╚════██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝
