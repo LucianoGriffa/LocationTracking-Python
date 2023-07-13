@@ -12,7 +12,7 @@ This can be useful in various scenarios, including:
 ## How To Use
 1. Clone the repository.
 ``` 
-git clone https://github.com/g3ksec/TrackingLocation-Python/
+git clone https://github.com/LucianoGriffa/TrackingLocation-Python/
 ```
 2. Enter the folder.
 ```
@@ -33,11 +33,4 @@ python tracking.py
 ![image](https://github.com/G3kSec/TrackingLocation-Python/assets/73656863/a5de6030-56ae-4074-bafb-7f5ca52d436e)
 
 
-```
-██████╗ ██╗   ██╗     ██████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗
-██╔══██╗╚██╗ ██╔╝    ██╔════╝ ╚════██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝
-██████╔╝ ╚████╔╝     ██║  ███╗ █████╔╝█████╔╝ ███████╗█████╗  ██║     
-██╔══██╗  ╚██╔╝      ██║   ██║ ╚═══██╗██╔═██╗ ╚════██║██╔══╝  ██║     
-██████╔╝   ██║       ╚██████╔╝██████╔╝██║  ██╗███████║███████╗╚██████╗
-╚═════╝    ╚═╝        ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
-```
+**By Luciano Griffa | 2023**
